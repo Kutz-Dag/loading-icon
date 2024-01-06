@@ -1,0 +1,79 @@
+$bezier: cubic-bezier(.21,.98,.6,.99);
+
+.frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  margin-top: -200px;
+  margin-left: -200px;
+  border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+	overflow: hidden;
+  background: #45b6FE;
+  color: #333;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.circle {
+	border-radius: 50%;
+	background: #F0EAD6;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%) scale(0);
+	box-shadow: 6px 6px 16px rgba(0, 0, 0, 0.4);
+	aspect-ratio: 1;
+}
+
+.circle:nth-child(1) {
+	width: 90px;
+	animation: circle-animation-1 2s $bezier infinite alternate;
+}
+
+.circle:nth-child(2) {
+	width: 60px;
+	animation: circle-animation-2 2s $bezier infinite alternate;
+}
+
+.circle:nth-child(3) {
+	width: 30px;
+	animation: circle-animation-3 2s $bezier infinite alternate;
+}
+
+@keyframes circle-animation-1 {
+	0%, 10% {
+		transform: translate(-50%, -50%) scale(0);
+	}
+	100% {
+		transform: translate(-50%, -50%) scale(1);
+	}
+}
+
+@keyframes circle-animation-2 {
+	0%, 40% {
+		transform: translate(-50%, -50%) scale(0);
+	}
+	100% {
+		transform: translate(-50%, -50%) scale(1);
+	}
+}
+
+@keyframes circle-animation-3 {
+	0%, 70% {
+		transform: translate(-50%, -50%) scale(0);
+	}
+	100% {
+		transform: translate(-50%, -50%) scale(1);
+	}
+}
