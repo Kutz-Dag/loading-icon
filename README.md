@@ -19,4 +19,4 @@ An innovative way of showing a loading button when waiting for a website to load
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
-[*The Loading Icon* by Kutz](https://codepen.io/kutzz/pen/VwgYOJx)
+[*The Loading Icon* by Kutz](https://codepen.io/kutzz/pen/OJryyWx)
