@@ -6,11 +6,11 @@ An innovative way of showing a loading button when waiting for a website to load
 <div>
   <p>HTML</p>
   <p>CSS</p>
-  <p>JavaScript</p>
+  <p>SASS</p>
 </div>
 ```
 
-> I mainly used Cascading StyleSheets for this repo.
+> I mainly used Cascading StyleSheets (CSS) for this repo.
 
 ### What was the aim?
 * To make the loading icon (the one that pops up while waiting for a website to load or when a video is buffering)
