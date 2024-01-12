@@ -1,5 +1,8 @@
 # The loading-icon
 An innovative way of showing a loading button when waiting for a website to load.
+Here is an example:
+
+![loading-icon-image](https://cdn.pixabay.com/photo/2015/02/22/17/56/loading-645268_1280.jpg)
 
 ### I used these languages to create this project:
 ```html
