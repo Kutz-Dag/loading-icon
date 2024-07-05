@@ -20,6 +20,10 @@ Here is an example:
 * To make it appear more modern
 * To animate it using CSS
 
+## Here is the result:
+
+![end-result](https://github.com/Kutz-Dag/loading-icon/assets/100941428/fcaa9522-1805-498d-98cf-17c87ac5b4ff)
+
 ## CodePen Project Link
 You can view my project on CodePen using this link:
 [*The Loading Icon* by Kutz](https://codepen.io/kutzz/pen/OJryyWx)
