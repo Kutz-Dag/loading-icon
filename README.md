@@ -22,7 +22,7 @@ Here is an example:
 
 ## Here is the result:
 
-<img src="https://github.com/Kutz-Dag/loading-icon/assets/100941428/fcaa9522-1805-498d-98cf-17c87ac5b4ff" />
+<img src="https://github.com/Kutz-Dag/loading-icon/assets/100941428/a43fe43f-bdaf-4ea4-8436-df9c4a14386d" />
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
