@@ -22,7 +22,7 @@ Here is an example:
 
 ## Here is the result:
 
-
+![Loading-icon remastered](https://github.com/Kutz-Dag/loading-icon/assets/100941428/65024fe3-e219-4e03-8167-e23a7752d5a7)
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
